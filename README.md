@@ -3,8 +3,8 @@ How effectively can NLP models uncover political bias in social media discourse 
 
 
 
-TF-IDF & TRUNCATED TF-IDF ARE CLUBBED TOGETHER INTO A .ipynb FILE
-                     &
-GloVe & GastText ARE CLUBBED TOGETHER INTO ANOTHER .ipynb FILE
+TF-IDF & TRUNCATED TF-IDF ARE CLUBBED TOGETHER INTO A .ipynb FILE.
+----------------------------------------------------------------
+GloVe & GastText ARE CLUBBED TOGETHER INTO ANOTHER .ipynb FILE.
 
-REFER TO THESE FILES SEPERATELY
+REFER TO/ HANDLE THESE FILES SEPERATELY
